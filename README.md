@@ -28,7 +28,7 @@ You are a data analyst
 ## Overall Analysis View
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/overall_view.png' width="600">
+    <img src='Dataset/Revenue Optimization and Business Intelligence Dashboard.png' width="600">
 </p>
 
 ## Learnt things from this Project 
