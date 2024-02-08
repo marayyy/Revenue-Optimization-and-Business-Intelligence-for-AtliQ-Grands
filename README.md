@@ -1,3 +1,5 @@
+![Screenshot 2024-02-05 140735](https://github.com/marayyy/Revenue-Optimization-and-Business-Intelligence-for-AtliQ-Grands/assets/114425969/8133463e-ce48-42f4-bc0c-5220b9c0e303)
+
 # Revenue-Optimization-and-Business-Intelligence-for-AtliQ-Grands
 Domain: Hospitality | Function: Revenue
 
